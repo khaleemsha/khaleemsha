@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @khaleemsha
+- 👀 I’m interested in ... machine learning and artificial intelligence
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...khaleem.pm@gmail.com
