@@ -1,0 +1,19 @@
+def collatz_conjecture(upto_num):
+    a=list(range(1,upto_num+1))
+    c_list=[]
+    for x in a:
+        c=1
+        while x!=1:
+            if x%2==0:
+                x=x/2
+                c+=1
+            else:
+                x=3*x+1
+                c+=1
+        c_list.append(c)
+    k=1
+    for y in c_list:
+        if y==max(c_list):
+            print(k)
+        else:
+            k+=1
