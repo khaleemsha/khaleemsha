@@ -1,5 +1,5 @@
-def collatz_conjecture(from_num,upto_num):
-    a=list(range(from_num,upto_num+1))
+def collatz_conjecture(from_num,to_num):
+    a=list(range(from_num,to_num+1))
     c_list=[]
     for x in a:
         c=1
